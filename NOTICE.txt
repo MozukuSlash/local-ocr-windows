@@ -1,0 +1,17 @@
+Local OCR for Windows — 非公式配布版
+
+このパッケージはIndra OCRを利用したWindows用GUIです。Datalab公式製品ではなく、Datalabによる推薦・保証を意味しません。
+Indra OCR: https://github.com/datalab-to/indra
+モデル: https://huggingface.co/datalab-to/indra-ocr/tree/v1.1.0
+モデルの重みは変更していません。GUI・表示・コピー・エクスポート機能を追加しています。
+
+利用・再配布の条件
+本パッケージを利用または再配布する場合、同梱した第三者のライセンス条件を遵守してください。
+IndraのコードはApache License 2.0、モデルはAI PUBS OPEN RAIL-M LICENSE (MODIFIED)の対象です。
+モデルの利用者・再配布先には同ライセンス第5項およびAttachment Aの利用制限が適用され、それらを遵守することが利用条件です。再配布時にも当該制限とライセンス全文を引き継いでください。
+ライセンス全文: MODEL-LICENSE.txt、および _internal/models/LICENSE
+コード・ライブラリの通知: _internal/licenses/
+
+モデルの条件には、前年の総売上・累計資金調達額がそれぞれ2,000万米ドルを超える組織での利用（個人利用・研究目的の例外あり）や、Datalabとの競合用途に関する制限があります。条件に該当する場合は提供元の別途ライセンスが必要です。判断は同梱の原文を確認してください。
+
+この配布物は試作版であり、精度、特定用途への適合性、セキュリティを保証するものではありません。読み取り結果は原本と照合してください。
